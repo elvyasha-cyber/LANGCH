@@ -1,0 +1,5 @@
+langchain
+langchain-openai
+python-dotenv
+# 0.14.0 блокируется политикой приложений Windows, без него не импортируется langchain_openai
+tiktoken==0.12.0
